@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=paulkazusek&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=paulkazusek&theme=dark" width="48%" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=paulkazusek&layout=compact)
