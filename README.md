@@ -13,6 +13,10 @@ I'm a software developer. Check out my work.
 - 📫 How to reach me ...
 -->
 
+## About me 
+
+- :earth_americas: I'm from ruhr metropole - Germany
+
 ## stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulkazusek&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right" />
