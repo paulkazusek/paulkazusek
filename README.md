@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
 
 
-I'm software engineer
+I'm a software developer. Check out my work.
 
 <!--
 - 👋 Hi, I’m @paulkazusek
