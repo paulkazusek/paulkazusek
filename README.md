@@ -16,7 +16,7 @@ I'm a software developer. Check out my work.
 
 ## About me 
 
-- :earth_americas: I'm from ruhr metropole - Germany
+- :earth_americas: I currently live in ruhr metropole - Germany
 - :video_game: I like to play driving simulator like F1
 
 ## stats
