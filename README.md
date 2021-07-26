@@ -1,7 +1,7 @@
 ### Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Paul. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square)](https://twitter.com/paulkazusek)
+[![Twitter URL](https://img.shields.io/twitter/url)](https://twitter.com/paulkazusek)
 
 
 I'm a software developer. Check out my work.
