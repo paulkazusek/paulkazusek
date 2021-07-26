@@ -6,8 +6,8 @@
 
 I'm a software developer. Check out my work.
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/paulkazusek/)
 
-https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B
 
 <!--
 - 👋 Hi, I’m @paulkazusek
