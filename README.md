@@ -85,7 +85,9 @@ I'm a software developer. Check out my work.
 - :earth_americas: I currently live in ruhr metropole - Germany
 - :video_game: I like to play driving simulator like F1
 
-## Contact me
+## Social 
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulkazusek)
 
 ## stats
 
