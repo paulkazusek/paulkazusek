@@ -59,6 +59,10 @@ I'm a software developer. Check out my work.
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+### Workspace
+
+![nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 <!--
 - 👋 Hi, I’m @paulkazusek
 - 👀 I’m interested in ...
