@@ -2,6 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
 
+
+I'm software engineer
+
 <!--
 - 👋 Hi, I’m @paulkazusek
 - 👀 I’m interested in ...
