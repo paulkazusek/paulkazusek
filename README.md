@@ -14,7 +14,8 @@ I'm a software developer. Check out my work.
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 
 #### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 #### Web Frontend
 
