@@ -15,4 +15,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=paulkazusek&layout=compact)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
-[![](https://vistr.dev/badge?repo=paulkazusek.paulkazusek&corners=square)](https://github.com/paulkazusek/vistr.dev)
+
