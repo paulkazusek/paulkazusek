@@ -85,6 +85,8 @@ I'm a software developer. Check out my work.
 - :earth_americas: I currently live in ruhr metropole - Germany
 - :video_game: I like to play driving simulator like F1
 
+## Contact me
+
 ## stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulkazusek&show_icons=true&theme=gotham" alt="github stats"  />
