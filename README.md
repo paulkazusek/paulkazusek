@@ -1,4 +1,6 @@
-<h2> Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Paul. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+### Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Paul. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
 
 <!--
 - 👋 Hi, I’m @paulkazusek
@@ -14,5 +16,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=paulkazusek&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
+
 
