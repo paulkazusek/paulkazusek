@@ -6,9 +6,9 @@
 
 I'm a software developer. Check out my work.
 
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) 
 
 <!--
 - 👋 Hi, I’m @paulkazusek
