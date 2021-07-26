@@ -61,6 +61,7 @@ I'm a software developer. Check out my work.
 
 ### Workspace
 
+![amd](https://img.shields.io/badge/AMD-Ryzen_Threadripper_2950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![nvidia](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <!--
