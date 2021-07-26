@@ -88,6 +88,7 @@ I'm a software developer. Check out my work.
 ## Social 
 
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulkazusek)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//paulkazusek)
 
 ## stats
 
