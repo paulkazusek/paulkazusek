@@ -1,4 +1,4 @@
-### :man_technologist: Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Paul. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+### :man_technologist: Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Paul Kazusek.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulkazusek)
 [![Twitter URL](https://img.shields.io/twitter/url?label=Paul%20Kazusek&style=social&url=https%3A%2F%2Ftwitter.com%2FPaulKazusek)](https://twitter.com/paulkazusek)
