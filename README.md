@@ -83,6 +83,7 @@ I'm a software developer. Check out my work.
 - 📫 How to reach me ...
 -->
 
+<!---
 ## About me 
 
 - :earth_americas: I currently live in ruhr metropole - Germany
@@ -96,7 +97,7 @@ I'm a software developer. Check out my work.
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pakazu)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/)
-
+-->
 
 ## stats
 
