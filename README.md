@@ -6,7 +6,7 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Paul%20Kazusek&style=social&url=https%3A%2F%2Ftwitter.com%2FPaulKazusek)](https://twitter.com/paulkazusek)
 
 
-I'm a software developer. Check out my work.
+I'm a software developer. Check out my repositories and work.
 
 ## My Tech Stack
 
